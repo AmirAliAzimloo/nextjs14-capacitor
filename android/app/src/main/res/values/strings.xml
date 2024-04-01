@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">nextjs14capacitor</string>
+    <string name="title_activity_main">nextjs14capacitor</string>
+    <string name="package_name">com.nextjs14capacitor.app</string>
+    <string name="custom_url_scheme">com.nextjs14capacitor.app</string>
+</resources>
